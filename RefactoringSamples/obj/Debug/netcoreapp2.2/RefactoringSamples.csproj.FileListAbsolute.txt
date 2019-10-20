@@ -1,0 +1,14 @@
+C:\dev\Github\RefactoringSamples\RefactoringSamples\obj\Debug\netcoreapp2.2\RefactoringSamples.csprojAssemblyReference.cache
+C:\dev\Github\RefactoringSamples\RefactoringSamples\obj\Debug\netcoreapp2.2\RefactoringSamples.csproj.CoreCompileInputs.cache
+C:\dev\Github\RefactoringSamples\RefactoringSamples\obj\Debug\netcoreapp2.2\RefactoringSamples.AssemblyInfoInputs.cache
+C:\dev\Github\RefactoringSamples\RefactoringSamples\obj\Debug\netcoreapp2.2\RefactoringSamples.AssemblyInfo.cs
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\RefactoringSamples.deps.json
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\RefactoringSamples.runtimeconfig.json
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\RefactoringSamples.runtimeconfig.dev.json
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\RefactoringSamples.dll
+C:\dev\Github\RefactoringSamples\RefactoringSamples\bin\Debug\netcoreapp2.2\RefactoringSamples.pdb
+C:\dev\Github\RefactoringSamples\RefactoringSamples\obj\Debug\netcoreapp2.2\RefactoringSamples.dll
+C:\dev\Github\RefactoringSamples\RefactoringSamples\obj\Debug\netcoreapp2.2\RefactoringSamples.pdb
