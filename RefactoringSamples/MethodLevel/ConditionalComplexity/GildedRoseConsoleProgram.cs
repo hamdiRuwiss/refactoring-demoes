@@ -10,7 +10,7 @@ namespace RefactoringSamples.MethodLevel.ConditionalComplexity
         IList<Item> Items;
         static void Main2(string[] args)
         {
-            System.Console.WriteLine("OMGHAI!");
+            System.Console.WriteLine("OMGHAI! Hiiiii ^_^");
 
             var app = new GildedRoseConsoleProgram()
             {
