@@ -14,11 +14,12 @@ namespace ClassRefactorings.ExtractInterface.Good
         public void EmailCheckoutNotification(string emailAddress, string message)
         {
             // send an email with the order id to the customer
+              
         }
     }
 
     public interface INotificationService
-    {
+    {// interface to entering
         void EmailCheckoutNotification(string emailAddress, string message);
     }
 
