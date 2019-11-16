@@ -1,10 +1,13 @@
 ﻿namespace RefactoringSamples.ClassLevel.DataClass
 {
     public class RefactoredAccount
+     string name;
+
     {
         public RefactoredAccount(int id, string accountType, decimal balance)
         {
             Id = id;
+
             AccountType = accountType;
             Balance = balance;
         }
