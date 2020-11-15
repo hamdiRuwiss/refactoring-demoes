@@ -4,6 +4,9 @@
     {
         public int Id;
         public string AccountType;
-        public decimal Balance;
+        public string username;
+        public int password;
+        
+        
     }
 }
